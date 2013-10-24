@@ -1,6 +1,7 @@
 ---
-title: OTTER WAX ALL NATURAL BEARD OIL
+title: "OTTER WAX ALL NATURAL BEARD OIL"
 layout: post
+categories: beard
 ---
 
 # OTTER WAX ALL NATURAL BEARD OIL
